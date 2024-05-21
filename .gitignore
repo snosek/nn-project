@@ -8,6 +8,12 @@ kaggle_api
 getdata.ipynb
 flowers
 phishing_site_urls.csv
+notes.md
+test_anim.py
+test_plotly.ipynb
+test_torch.ipynb
+tempCodeRunnerFile.py
+data_cleaning.py
 
 #
 # python
