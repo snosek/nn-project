@@ -2,6 +2,7 @@
 # data
 #
 
+urls.csv
 Testing.parquet
 Training.parquet
 kaggle_api
